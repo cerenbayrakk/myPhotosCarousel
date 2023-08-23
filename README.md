@@ -1,2 +1,1 @@
-# myPhotoss
-myPhotoss
+https://cerenbayrakk.github.io/myPhotosCarousel/
